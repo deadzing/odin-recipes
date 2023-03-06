@@ -5,6 +5,8 @@ body {
   background-color: beige;
   font-family: Verdana;
   width: 100vw;
+  margin-left: 20px;
+  margin-top: 10px;
 }
 a {
   text-decoration: none;
@@ -37,4 +39,13 @@ a img {
   height: auto;
   border-bottom-right-radius: 10px;
   border-bottom-left-radius: 10px;
+}
+#return-home {
+  text-decoration: none;
+  color: rgb(43, 86, 105);
+  font-size: 25px;
+  display: block;
+  background-color: beige;
+  border-top-right-radius: 0;
+  border-top-left-radius: 0;
 }
